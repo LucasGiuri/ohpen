@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Snapshots default snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="input-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <input
+    className="sc-dlfnuX epJnGT"
+    data-test="input-input"
+    onChange={[Function]}
+    value=""
+  />
+</div>
+`;
+
+exports[`Input Snapshots with custom dataTestPrefix snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="dataTestPrefix-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <input
+    className="sc-dlfnuX epJnGT"
+    data-test="dataTestPrefix-input"
+    onChange={[Function]}
+    value=""
+  />
+</div>
+`;
+
+exports[`Input Snapshots with custom defaultValue snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="input-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <input
+    className="sc-dlfnuX epJnGT"
+    data-test="input-input"
+    onChange={[Function]}
+    value="defaultValue"
+  />
+</div>
+`;
+
+exports[`Input Snapshots with type dropdown and defaultValue snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="input-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <select
+    className="sc-hKgJUU cWPyzQ"
+    data-test="input-input-select"
+    onChange={[Function]}
+    value="defaultValue"
+  >
+    <option>
+      
+    </option>
+    <option>
+      defaultValueA
+    </option>
+    <option>
+      defaultValueB
+    </option>
+    <option>
+      defaultValue
+    </option>
+  </select>
+</div>
+`;
+
+exports[`Input Snapshots with type dropdown snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="input-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <select
+    className="sc-hKgJUU cWPyzQ"
+    data-test="input-input-select"
+    onChange={[Function]}
+    value=""
+  >
+    <option>
+      
+    </option>
+    <option>
+      defaultValueA
+    </option>
+    <option>
+      defaultValueB
+    </option>
+    <option>
+      defaultValue
+    </option>
+  </select>
+</div>
+`;
+
+exports[`Input Snapshots with type text and defaultValue snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="input-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <input
+    className="sc-dlfnuX epJnGT"
+    data-test="input-input"
+    onChange={[Function]}
+    value="defaultValue"
+  />
+</div>
+`;
+
+exports[`Input Snapshots with type text snapshot render 1`] = `
+<div
+  className="sc-gsTEea cNPdrl"
+  data-test="input-input-container"
+>
+  <label
+    className="sc-eCstlR egbkxO"
+  />
+  <div
+    className="sc-bdfBQB jINbmp"
+    height=""
+    width=""
+  />
+  <input
+    className="sc-dlfnuX epJnGT"
+    data-test="input-input"
+    onChange={[Function]}
+    value=""
+  />
+</div>
+`;

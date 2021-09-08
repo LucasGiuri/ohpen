@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Snapshots default snapshot render 1`] = `
+<div
+  className="sc-bdfBQB fINfZT"
+  data-test="card-card"
+>
+  <div
+    className="sc-gsTEea bMmgDr"
+  >
+    <span
+      className="sc-dlfnuX cvZFiX"
+      data-test="card-card-title"
+    >
+      TITLE
+    </span>
+    <div
+      className="sc-eCstlR jXyqPy"
+    >
+      <input
+        className="sc-gKseQn gLUVYz"
+        type="checkbox"
+      />
+      <label
+        className="sc-jSgvzq iZDWJJ"
+        htmlFor="checkbox"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+  <div
+    className="sc-hKgJUU dbFtMW"
+    data-test="card-card-content"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit
+  </div>
+</div>
+`;
+
+exports[`Card Snapshots with custom content snapshot render 1`] = `
+<div
+  className="sc-bdfBQB fINfZT"
+  data-test="card-card"
+>
+  <div
+    className="sc-gsTEea bMmgDr"
+  >
+    <span
+      className="sc-dlfnuX cvZFiX"
+      data-test="card-card-title"
+    >
+      TITLE
+    </span>
+    <div
+      className="sc-eCstlR jXyqPy"
+    >
+      <input
+        className="sc-gKseQn gLUVYz"
+        type="checkbox"
+      />
+      <label
+        className="sc-jSgvzq iZDWJJ"
+        htmlFor="checkbox"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+  <div
+    className="sc-hKgJUU dbFtMW"
+    data-test="card-card-content"
+  >
+    customContent
+  </div>
+</div>
+`;
+
+exports[`Card Snapshots with custom dataTestPrefix snapshot render 1`] = `
+<div
+  className="sc-bdfBQB fINfZT"
+  data-test="dataTestPrefix-card"
+>
+  <div
+    className="sc-gsTEea bMmgDr"
+  >
+    <span
+      className="sc-dlfnuX cvZFiX"
+      data-test="dataTestPrefix-card-title"
+    >
+      TITLE
+    </span>
+    <div
+      className="sc-eCstlR jXyqPy"
+    >
+      <input
+        className="sc-gKseQn gLUVYz"
+        type="checkbox"
+      />
+      <label
+        className="sc-jSgvzq iZDWJJ"
+        htmlFor="checkbox"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+  <div
+    className="sc-hKgJUU dbFtMW"
+    data-test="dataTestPrefix-card-content"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit
+  </div>
+</div>
+`;
+
+exports[`Card Snapshots with isChecked = false snapshot render 1`] = `
+<div
+  className="sc-bdfBQB fINfZT"
+  data-test="card-card"
+>
+  <div
+    className="sc-gsTEea bMmgDr"
+  >
+    <span
+      className="sc-dlfnuX cvZFiX"
+      data-test="card-card-title"
+    >
+      TITLE
+    </span>
+    <div
+      className="sc-eCstlR jXyqPy"
+    >
+      <input
+        className="sc-gKseQn gLUVYz"
+        type="checkbox"
+      />
+      <label
+        className="sc-jSgvzq iZDWJJ"
+        htmlFor="checkbox"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+  <div
+    className="sc-hKgJUU dbFtMW"
+    data-test="card-card-content"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit
+  </div>
+</div>
+`;
+
+exports[`Card Snapshots with isChecked = true snapshot render 1`] = `
+<div
+  className="sc-bdfBQB fINfZT"
+  data-test="card-card"
+>
+  <div
+    className="sc-gsTEea bMmgDr"
+  >
+    <span
+      className="sc-dlfnuX cvZFiX"
+      data-test="card-card-title"
+    >
+      TITLE
+    </span>
+    <div
+      className="sc-eCstlR jXyqPy"
+    >
+      <input
+        className="sc-gKseQn gLUVYz"
+        type="checkbox"
+      />
+      <label
+        className="sc-jSgvzq iZDWJJ"
+        htmlFor="checkbox"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+  <div
+    className="sc-hKgJUU dbFtMW"
+    data-test="card-card-content"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit
+  </div>
+</div>
+`;

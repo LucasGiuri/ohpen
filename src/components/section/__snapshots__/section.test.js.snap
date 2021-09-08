@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section Snapshots default snapshot render 1`] = `
+<div
+  className="sc-bdfBQB hjzOBS"
+  data-test="section-section"
+>
+  <div
+    className="sc-gsTEea liuxQj"
+  >
+    <div
+      className="sc-dlfnuX hyHGqJ"
+    >
+      <img
+        className="sc-hKgJUU husJpk"
+        src="logo.png"
+      />
+    </div>
+    asd
+  </div>
+</div>
+`;
+
+exports[`Section Snapshots with custom dataTestPrefix snapshot render 1`] = `
+<div
+  className="sc-bdfBQB hjzOBS"
+  data-test="dataTestPrefix-section"
+>
+  <div
+    className="sc-gsTEea liuxQj"
+  >
+    <div
+      className="sc-dlfnuX hyHGqJ"
+    >
+      <img
+        className="sc-hKgJUU husJpk"
+        src="logo.png"
+      />
+    </div>
+    asd
+  </div>
+</div>
+`;

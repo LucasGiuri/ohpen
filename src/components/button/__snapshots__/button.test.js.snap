@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Snapshots default snapshot render 1`] = `
+<button
+  className="sc-bdfBQB hJYzUd"
+  data-test="button-button"
+>
+  title
+</button>
+`;
+
+exports[`Button Snapshots with custom dataTestPrefix snapshot render 1`] = `
+<button
+  className="sc-bdfBQB hJYzUd"
+  data-test="dataTestPrefix-button"
+>
+  title
+</button>
+`;

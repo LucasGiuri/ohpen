@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Space default snapshot render 1`] = `
+<div
+  className="sc-bdfBQB kDlxrm"
+  height=""
+  width=""
+/>
+`;
+
+exports[`Space with custom height snapshot render 1`] = `
+<div
+  className="sc-bdfBQB frKbNU"
+  height="1254px"
+  width=""
+/>
+`;
+
+exports[`Space with custom width snapshot render 1`] = `
+<div
+  className="sc-bdfBQB hvxzpm"
+  height=""
+  width="1230px"
+/>
+`;
+
+exports[`Space with double snapshot render 1`] = `
+<div
+  className="sc-bdfBQB jINbmp"
+  height=""
+  width=""
+/>
+`;
+
+exports[`Space with half snapshot render 1`] = `
+<div
+  className="sc-bdfBQB kDmBBq"
+  height=""
+  width=""
+/>
+`;
+
+exports[`Space with vertical snapshot render 1`] = `
+<div
+  className="sc-bdfBQB hOuFBe"
+  height=""
+  width=""
+/>
+`;

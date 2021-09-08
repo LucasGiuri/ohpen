@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Snapshots default snapshot render 1`] = `
+<div
+  className="sc-bdfBQB jFzuzi"
+  data-test="list-list"
+>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION1
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION2
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION3
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION4
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION100
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION200
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION300
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTIONA4
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION1000
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION2000
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION0003
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTIONS4
+  </div>
+</div>
+`;
+
+exports[`List Snapshots with custom dataPrefix snapshot render 1`] = `
+<div
+  className="sc-bdfBQB jFzuzi"
+  data-test="dataTestPrefix-list"
+>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION1
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION2
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION3
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION4
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION100
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION200
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION300
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTIONA4
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION1000
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION2000
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTION0003
+  </div>
+  <div
+    className="sc-gsTEea kIYsgc"
+  >
+    SUBSCRIPTIONS4
+  </div>
+</div>
+`;
